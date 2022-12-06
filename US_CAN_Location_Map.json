@@ -621,6 +621,9 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-76.199359,36.882116]},"properties":{"STORE":"02323","STORE_NAME":"NORFLK PREM OUT"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-81.4534674,28.4729826]},"properties":{"STORE":"02324","STORE_NAME":"ORLANDO PR OUTL"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-85.352334,38.206124]},"properties":{"STORE":"02325","STORE_NAME":"OUTSHPBLUEGRASS"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.3128440872816,41.048090679839]},"properties":{"STORE":"02328","STORE_NAME":"CRSGS PREM OUTL"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-112.267400988616,33.534018211867]},"properties":{"STORE":"02329","STORE_NAME":"TANGER OUTL PHX"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-119.061257487327,34.2165302057506]},"properties":{"STORE":"02331","STORE_NAME":"CAMARILLO OUTLT"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-74.681278,40.290876]},"properties":{"STORE":"02913","STORE_NAME":"QUAKERBRIDGE"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-71.023564,42.221955]},"properties":{"STORE":"02928","STORE_NAME":"SOUTH SHORE"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-105.13298,39.933218]},"properties":{"STORE":"02937","STORE_NAME":"FLATIRON"}},
@@ -677,4 +680,5 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-84.338951,46.512461]},"properties":{"STORE":"03086","STORE_NAME":"STATION MALL"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-123.0858461592906,49.03799274749465]},"properties":{"STORE":"03088","STORE_NAME":"TSAWWASSEN"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-97.1094668981414,49.828734403413]},"properties":{"STORE":"03089","STORE_NAME":"ST VITAL CENTRE"}}
+
 ]}
