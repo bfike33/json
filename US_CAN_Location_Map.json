@@ -1251,4 +1251,5 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[0,0]},"properties":{"STORE":"WHS02","STORE_NAME":"NFI FULFILLMENT"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[0,0]},"properties":{"STORE":"WHS04","STORE_NAME":"NFI ONTARIO DC"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[0,0]},"properties":{"STORE":"WHS10","STORE_NAME":"DROP SHIP"}}
+
 ]}
