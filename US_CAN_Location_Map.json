@@ -1,5 +1,5 @@
 {"type":"FeatureCollection", "features": [
-    {"type":"Feature","geometry":{"type":"Point","coordinates":[-75.03,39.9385]},"properties":{"STORE":"00001","STORE_NAME":"CHERRY HILL"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-75.03,39.9385]},"properties":{"STORE":"00001","STORE_NAME":"CHERRY HILL"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-87.7541,42.0345]},"properties":{"STORE":"00006","STORE_NAME":"SKOKIE"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-80.115,40.4468]},"properties":{"STORE":"00008","STORE_NAME":"SOUTH HILLS"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-76.7709,39.4261]},"properties":{"STORE":"00009","STORE_NAME":"OWINGS MILLS"}},
@@ -779,6 +779,7 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-83.66658,32.62153]},"properties":{"STORE":"02282","STORE_NAME":"CITY XING SHPCN"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-81.64219,30.47611]},"properties":{"STORE":"02283","STORE_NAME":"RIVR CITY MKTPL"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-83.71479,32.92644]},"properties":{"STORE":"02284","STORE_NAME":"RIVER CROSSING"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[-88.95743,40.50639]},"properties":{"STORE":"02286","STORE_NAME":"COLLEGE HILLS"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-78.97918,43.09785]},"properties":{"STORE":"02304","STORE_NAME":"NIAGARA OUTLETS"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-97.88815,26.16328]},"properties":{"STORE":"02305","STORE_NAME":"RIO GRANDE"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-97.69076,30.56639]},"properties":{"STORE":"02306","STORE_NAME":"ROUND ROCK"}},
