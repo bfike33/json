@@ -1586,4 +1586,4 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8033632288359,33.1204667937666]},"properties":{"STORE":"71044","STORE_NAME":"FRISCO TX"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8022222632392,33.1012462986898]},"properties":{"STORE":"61068","STORE_NAME":"S FRISCO VILLAG"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-96.8930945294323,33.0959078769466]},"properties":{"STORE":"61354","STORE_NAME":"THE COLONY TX"}}
-]
+]}
